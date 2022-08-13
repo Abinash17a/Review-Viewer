@@ -29,11 +29,13 @@ h4,h5{
     color: lightseagreen;
     border: none;
     background-color: white;
+    cursor: pointer;
 }
 .rightbtn{
     color: lightseagreen;
     border: none;
     background-color: #fff;
+    cursor: pointer;
 
 }
 .suprise{
