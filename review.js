@@ -62,7 +62,7 @@ document.querySelector(".rightbtn").addEventListener("click",function(){
 
     }
 });
-document.querySelector(".surp").addEventListener("click",function(){
+document.querySelector(".suprise").addEventListener("click",function(){
    // var ran=randnum();
     function randnum(){
         return Math.floor(Math.random()*3)+1;
