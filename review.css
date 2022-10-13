@@ -12,8 +12,9 @@ div.outerdiv{
     margin-right: 25%;
     background-color:rgb(255, 255, 255);
     box-shadow: 9px 9px 9px 9px grey;
-
-    border-radius: 10%;
+    height: 45vh;
+    padding: 20px 0 0 20px;
+    border-radius: 2%;
 }
 img{
     border-radius: 100%;
@@ -39,8 +40,9 @@ h4,h5{
 
 }
 .suprise{
+    height: 10%;
     margin-top: 1%;
-    border-radius: 20%;
-    border-color: blue;
-    background-color:lightskyblue;
+    border-radius: 10%;
+    border-color: black;
+    background-color: pink;
 }
